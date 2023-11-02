@@ -2,15 +2,18 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
-#vinto{
+.vinto{
     color: green;
-    text-align: center;
-    font-size: 3em;
+}
+.perso{
+    color: rgb(194, 0, 0);
 
 }
-#perso{
-    color: rgb(194, 0, 0);
+.pareggio{
+    color: rgb(228, 127, 12);
+
+}
+#risultato{
     text-align: center;
     font-size: 3em;
-
 }
